@@ -1,5 +1,5 @@
 # 💫 About Me:
-Freelance Android and Backend Developer,<br>Always ready to try new things and take new challenges
+I am 2nd year CSE student looking for opportunities in React Native and backend using Node.js and Express.js
 
 
 ## 🌐 Socials:
