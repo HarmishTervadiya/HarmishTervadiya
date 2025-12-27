@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am 2nd year CSE student looking for opportunities in React Native and backend using Node.js and Express.js
+I am 3rd year CSE student looking for opportunities in React Native and backend using Node.js and Express.js
 
 
 ## 🌐 Socials:
