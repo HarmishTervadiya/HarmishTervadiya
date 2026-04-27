@@ -3,25 +3,6 @@
 <!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:064e3b,100:10b981&height=180&section=header&text=Harmis%20Tervadiya&fontSize=50&fontColor=34d399&animation=fadeIn&fontAlignY=35&desc=React%20Native%20Developer%20|%20Full%20Stack%20Builder&descSize=18&descAlignY=55&descColor=ffffff" width="100%"/>
 
-<!-- Social Links -->
-<p>
-  <a href="https://linkedin.com/in/harmis-tervadiya" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="35" height="35"/>
-  </a>
-  &nbsp;
-  <a href="https://x.com/harmistervadiya" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter/X" width="35" height="35"/>
-  </a>
-  &nbsp;
-  <a href="https://medium.com/@harmishtervadiya" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" width="35" height="35" style="filter: invert(1);"/>
-  </a>
-  &nbsp;
-  <a href="https://harmis-tervadiya.vercel.app" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" width="35" height="35"/>
-  </a>
-</p>
-
 </div>
 
 ## ⚔️ About Me
