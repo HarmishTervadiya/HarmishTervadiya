@@ -11,9 +11,9 @@
 
 **"Effort > Outcome. We reward the attempt, not just the win."**
 
-- 🔭 Currently working on: **Freelance jewelry brand project**
+- 🔭 Currently working on: **Recurring payment subscription on solana**
 - 🌱 Learning: **New tech & best practices**
-- 🎮 Current Product: **Founder's RPG** - Gamifying the Hustle
+- 🎮 Current Product: **Recur** - Autopay protocol on solana*
 - 👨‍💻 Portfolio: **[harmis-tervadiya.vercel.app](https://harmis-tervadiya.vercel.app)**
 - 📫 Contact: **harmishtervadiya@gmail.com**
 
